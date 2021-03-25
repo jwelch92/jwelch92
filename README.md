@@ -2,12 +2,11 @@
 
 I'm Jared Welch, software engineer and cat dad :cat:. 
 
-🔭 I’m currently working on: [Advent of Code 2020](https://github.com/jwelch92/advent-of-code-2020) in Python 3
+🔭 I’m currently working on: Incident Analysis tools at [jeli.io](https://www.jeli.io/)
 
 😄 Pronouns: he/him
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jared-welch-89965b1a/), more to come later
-
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jared-welch-89965b1a/)
 
 <!--
 **jwelch92/jwelch92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
